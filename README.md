@@ -9,8 +9,7 @@
 5. [What Is a Regex?](#what-is-a-regex?)
 6. [Getting Started](#getting-started)
 7. [Resources](#resources)
-8. [Visuals](#visuals)
-9. [Author and Acknowledgements](#author-and-acknowledgements)
+8. [Author and Acknowledgements](#author-and-acknowledgements)
 
 ## DEPLOYED GIST
 
@@ -69,7 +68,8 @@ You can choose one of the following regular expressions or you can choose one th
 
 * Matching a URL: `/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/`
 
-* Matching an HTML Tag: `/^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/`
+* Matching an HTML Tag: `/^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s
+
 
 ## Getting Started
 
@@ -94,10 +94,6 @@ Each section that describes a component should include more than just one senten
 
 - [Repository](https://github.com/Cinderbeast/17-Computer-Science-for-JavaScript)
 
-
-## Visuals
-
-![Tech Blog Screen Shot]()
 
 ## Author and Acknowledgements
 
