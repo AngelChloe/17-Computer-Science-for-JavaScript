@@ -1,11 +1,21 @@
 # 17 Computer Science for JavaScript: Regex Tutorial
 
+## Table of Contents
+
+1. [DEPLOYED GIST](#deployed-gist)
+2. [Task](#task)
+3. [User Story](#user-story)
+4. [Acceptance Criteria](#acceptance-criteria)
+5. [What Is a Regex?](#what-is-a-regex?)
+6. [Resources](#resources)
+7. [Visuals](#visuals)
+8. [Author and Acknowledgements](#author-and-acknowledgements)
+
 ## DEPLOYED GIST
 
-#### **Note:** <a href="https://gist.github.com/Cinderbeast/93b2fbd72b10b73d2b8bbe6352389184"> This is a link to the deployed Gist </a>
+<a href=""> This is a link to the deployed Gist </a>
 
-
-## Your Task
+## Task
 
 Developers write code, but they also *write about code*. Take a moment to search the web for tutorials about any of the subjects you’ve learned so far in this course. You’re likely to find thousands of tutorials written by developers of all skill levels, including junior developers&mdash;like yourself!
 
@@ -14,7 +24,7 @@ Your assignment this week is to create a tutorial that explains how a specific r
 ## User Story
 
 ```md
-AS A web development student 
+AS A web development student
 I WANT a tutorial explaining a specific regex
 SO THAT I can understand the search pattern the regex defines
 ```
@@ -22,18 +32,18 @@ SO THAT I can understand the search pattern the regex defines
 ## Acceptance Criteria
 
 ```md
-When given regex tutorial, I open the tutorial
+- When given regex tutorial, I open the tutorial
 
-I see a descriptive title and introductory paragraph explaining the purpose of the tutorial:
-- A summary describing the regex featured in the tutorial
-- A table of contents linking to different sections that break down each component of the regex and explain what it does
-- A section about the author with a link to the author’s GitHub profile
+- I see a descriptive title and introductory paragraph explaining the purpose of the tutorial:
+- - A summary describing the regex featured in the tutorial
+- - A table of contents linking to different sections that break down each component of the regex and explain what it does
+- - A section about the author with a link to the author’s GitHub profile
 
-I click on the links in the table of contents
-I am then taken to the corresponding sections of the tutorial
-I read through each section of the tutorial
-I find a detailed explanation of what a specific component of the regex does
-I reach the end of the tutorial and I find a section about the author and a link to the author’s GitHub profile
+- I click on the links in the table of contents
+- I am then taken to the corresponding sections of the tutorial
+- I read through each section of the tutorial
+- I find a detailed explanation of what a specific component of the regex does
+- I reach the end of the tutorial and I find a section about the author and a link to the author’s GitHub profile
 ```
 
 ## What Is a Regex?
@@ -60,3 +70,18 @@ You can choose one of the following regular expressions or you can choose one th
 
 * Matching an HTML Tag: `/^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/`
 
+## Resources
+
+- [LIVE SITE]()
+
+- [Repository](https://github.com/Cinderbeast/17-Computer-Science-for-JavaScript)
+
+- [Heroku](https://git.heroku.com/polar-brook-38055.git)
+
+## Visuals
+
+![Note-Taker Screenshot](https://user-images.githubusercontent.com/105569378/188512750-7a82babc-992f-409a-a189-c29070d3cfd6.png)
+
+## Author and Acknowledgements
+
+Code created by University of Utah Bootcamp, edited by Cindy Chynoweth and help for other Awesome coders out there!
