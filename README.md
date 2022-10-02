@@ -2,7 +2,7 @@
 
 ## DEPLOYED GIST
 
-<a href=""> This is a link to the deployed Gist </a>
+<a href="<script src="https://gist.github.com/Cinderbeast/93b2fbd72b10b73d2b8bbe6352389184.js"></script>"> This is a link to the deployed Gist </a>
 
 ## Your Task
 
