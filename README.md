@@ -13,24 +13,26 @@ Your assignment this week is to create a tutorial that explains how a specific r
 ## User Story
 
 ```md
-As a web development student I want a tutorial explaining a specific regex so that I can understand the search pattern the regex defines
+AS A web development student 
+I WANT a tutorial explaining a specific regex
+SO THAT I can understand the search pattern the regex defines
 ```
 
 ## Acceptance Criteria
 
 ```md
-- When given regex tutorial, I open the tutorial
+When given regex tutorial, I open the tutorial
 
-- I see a descriptive title and introductory paragraph explaining the purpose of the tutorial:
-- - A summary describing the regex featured in the tutorial
-- - A table of contents linking to different sections that break down each component of the regex and explain what it does
-- - A section about the author with a link to the author’s GitHub profile
+I see a descriptive title and introductory paragraph explaining the purpose of the tutorial:
+- A summary describing the regex featured in the tutorial
+- A table of contents linking to different sections that break down each component of the regex and explain what it does
+- A section about the author with a link to the author’s GitHub profile
 
-- I click on the links in the table of contents
-- I am then taken to the corresponding sections of the tutorial
-- I read through each section of the tutorial
-- I find a detailed explanation of what a specific component of the regex does
-- I reach the end of the tutorial and I find a section about the author and a link to the author’s GitHub profile
+I click on the links in the table of contents
+I am then taken to the corresponding sections of the tutorial
+I read through each section of the tutorial
+I find a detailed explanation of what a specific component of the regex does
+I reach the end of the tutorial and I find a section about the author and a link to the author’s GitHub profile
 ```
 
 ## What Is a Regex?
