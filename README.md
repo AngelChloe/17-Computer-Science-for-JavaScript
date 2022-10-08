@@ -90,11 +90,9 @@ Each section that describes a component should include more than just one senten
 
 ## Resources
 
-- [LIVE SITE]()
-
 - [Repository](https://github.com/Cinderbeast/17-Computer-Science-for-JavaScript)
 
 
 ## Author and Acknowledgements
 
-Created by University of Utah Univerity of Utah Coding Bootcamp Student, Cindy Chynoweth
+Created by University of Utah University of Utah Coding Bootcamp Student, Cindy Chynoweth
