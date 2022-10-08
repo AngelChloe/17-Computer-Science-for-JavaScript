@@ -97,4 +97,4 @@ Each section that describes a component should include more than just one senten
 
 ## Author and Acknowledgements
 
-Code created by University of Utah Bootcamp, edited by Cindy Chynoweth.
+Created by University of Utah Univerity of Utah Coding Bootcamp Student, Cindy Chynoweth
