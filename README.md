@@ -86,7 +86,7 @@ Each section that describes a component should include more than just one senten
 
 ## Resources
 
-- [Repository](https://github.com/Cinderbeast/17-Computer-Science-for-JavaScript)
+- [Repository](https://github.com/AngelChloe/17-Computer-Science-for-JavaScript/edit/main/README.md)
 
 
 ## Author and Acknowledgements
