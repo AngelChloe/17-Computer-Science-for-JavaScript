@@ -13,7 +13,7 @@
 
 ## DEPLOYED GIST
 
-<a href="https://gist.github.com/Cinderbeast/93b2fbd72b10b73d2b8bbe6352389184"> This is a link to the deployed Gist </a>
+<a href="https://gist.github.com/AngelChloe/8f08e3a36f7ec1079f7052c383acdf44"> This is a link to the deployed Gist </a>
 
 ## Task
 
